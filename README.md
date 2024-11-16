@@ -1,4 +1,4 @@
-# enc-gen (Enhance n Generate 🤖)
+# Smart Augmenter
 An Intel SA Fall Hackathon Project!
 
 ![image](https://github.com/Utsav-Mehta/enc_gen/assets/81905399/36c58b67-7db2-431e-b59a-068e047b9093)
