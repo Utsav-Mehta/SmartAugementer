@@ -4,9 +4,9 @@ An Intel SA Fall Hackathon Project!
 ![image](https://github.com/Utsav-Mehta/enc_gen/assets/81905399/36c58b67-7db2-431e-b59a-068e047b9093)
 
 
-Introducing Enc-Gen: Enhance n Generate System
+Introducing Smart Augmenter!
 
-Enc-Gen is a powerful solution designed to tackle the challenges faced in machine learning with simplicity and efficiency. This innovative system combines two essential functions: enhancing datasets for better analysis and generating new data for improved model performance. Let's break down what Enc-Gen does in a user-friendly way:
+Smart Augementer is a powerful solution designed to tackle the challenges faced in machine learning with simplicity and efficiency. This innovative system combines two essential functions: enhancing datasets for better analysis and generating new data for improved model performance. Let's break down what Enc-Gen does in a user-friendly way:
 
 **1. Enhancing Datasets with Active Learning**:
 
