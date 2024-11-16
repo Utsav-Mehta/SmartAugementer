@@ -22,9 +22,9 @@ Automated Data Generation: Enc-Gen's AI-driven algorithms work behind the scenes
 
 Instant Access: The generated dataset is conveniently presented to the user in a downloadable CSV format. This ready-to-use data can seamlessly integrate into machine learning workflows, saving time and effort.
 
-Benefits of Enc-Gen:
+Benefits of SmartAugementer:
 
-Efficiency: Enc-Gen automates complex processes, making it effortless to handle large datasets and generate synthetic data.
+Efficiency: SmartAugmenter automates complex processes, making it effortless to handle large datasets and generate synthetic data.
 Flexibility: Users have the freedom to customize the active learning process based on their computational resources.
 User-Friendly: Enc-Gen offers an intuitive interface, requiring minimal user input and ensuring a smooth experience.
 Enhanced Results: By enhancing datasets and generating new data, Enc-Gen empowers machine learning models, leading to more accurate and reliable outcomes.
